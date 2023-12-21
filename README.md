@@ -10,4 +10,4 @@
 
 `scrapy crawl products -o products.json`
 
-the desired output shall be visible in products.csv
+the desired output shall be visible in products.json
